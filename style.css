@@ -80,12 +80,14 @@ img {
   font-family: Roboto, Oswald;
 }
 
-deatils:hover {
+details:hover {
   transform: scale(1.2);
+  transition: transform 0.2s ease;
 }
 
 summary:hover {
   transform: scale(1.132);
+  transition: transform 0.2s ease;
 }
 
 /* FAQ section */
