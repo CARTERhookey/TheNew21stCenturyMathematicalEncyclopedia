@@ -80,6 +80,10 @@ img {
   font-family: Roboto, Oswald;
 }
 
+deatils:hover {
+  transform: scale(1.5);
+}
+
 summary:hover {
   transform: scale(1.5);
 }
