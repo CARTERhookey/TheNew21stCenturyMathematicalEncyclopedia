@@ -2,7 +2,7 @@ body {
   background-color: lightgreen;
   color: darkgreen;
   justify-content: center;
-  justify-text: center;
+  text-align: center;
   display: flex;
   flex: center;
 }
