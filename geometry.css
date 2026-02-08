@@ -3,6 +3,8 @@ body {
   color: darkgreen;
   justify-content: center;
   justify-text: center;
+  display: flex;
+  flex: center;
 }
 
 h1 {
