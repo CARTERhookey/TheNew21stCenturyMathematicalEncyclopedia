@@ -1,6 +1,7 @@
 body {
   background-color: lightgreen;
   color: darkgreen;
+  justify-content: center;
 }
 
 h1 {
